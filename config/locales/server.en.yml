@@ -1,0 +1,14 @@
+en:
+  site_settings:
+    discourse_title_edit_actions_enabled: "Show title edit as actions on topic"
+
+    discourse_title_edit_actions_min_diff_length: "Minimum number of characters in diff for title edit actions"
+
+    discourse_title_edit_actions_max_tl: "Maximum editor trust level for which title edit actions are shown"
+
+    discourse_title_edit_actions_include_mods: "Show title edit actions by moderators"
+    discourse_title_edit_actions_include_admins: "Show title edit actions by admins"
+
+    discourse_title_edit_actions_exclude_staff_posts: "Do not show title edit actions for topics authored by staff or system"
+
+    discourse_title_edit_actions_bump: "Bump topic when a title edit action is added"

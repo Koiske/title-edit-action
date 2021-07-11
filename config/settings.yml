@@ -1,0 +1,21 @@
+plugins:
+  discourse_title_edit_actions_enabled:
+    default: true
+    client: true
+
+  discourse_title_edit_actions_min_diff_length:
+    default: 3
+
+  discourse_title_edit_actions_max_tl:
+    default: 4
+
+  discourse_title_edit_actions_include_mods:
+    default: true
+  discourse_title_edit_actions_include_admins:
+    default: false
+
+  discourse_title_edit_actions_exclude_staff_posts:
+    default: true
+
+  discourse_title_edit_actions_bump:
+    default: false

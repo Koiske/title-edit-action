@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+en:
+  js:
+    action_codes:
+      title_edited: "edited title %{when}"

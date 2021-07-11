@@ -1,0 +1,14 @@
+.custom-message {
+    ins {
+        background-color: dark-light-choose(
+            $success-low,
+            scale-color($success, $lightness: -60%)
+        );
+    }
+    del {
+        background-color: dark-light-choose(
+            $danger-low,
+            scale-color($danger, $lightness: -60%)
+        );
+    }
+}
